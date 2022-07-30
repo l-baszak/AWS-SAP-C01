@@ -1,5 +1,7 @@
 # S3 service
 
+![img_2.png](img_2.png)
+
 ### Practice
 
 * Upload file with the multi-part upload way - [link](s3_multipart.go)
