@@ -1,6 +1,6 @@
 # S3 service
 
-![img_2.png](img_2.png)
+<img src="img_2.png" width="200" height="200" />
 
 ### Practice
 
